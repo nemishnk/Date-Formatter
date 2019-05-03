@@ -1,0 +1,26 @@
+{
+  "name": "date-formatter",
+  "version": "1.0.0",
+  "description": "This package is to format the date as per your wish.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nemishnk/Date-Formatter.git"
+  },
+  "keywords": [
+    "Date"
+  ],
+  "author": "“Nemish <“nemish452@gmail.com”> (“https://nemishnk.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nemishnk/Date-Formatter/issues"
+  },
+  "homepage": "https://github.com/nemishnk/Date-Formatter#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
